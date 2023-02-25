@@ -1,0 +1,180 @@
+gender,migration,medical,disabilities,age,race,religions,degree,Code1,Code2,Code3,Code4,Code5,Code6,Code7,hrlabel
+2,1,2,3,1,1,1,8,health risk,Data Protection,,,,,,1
+2,1,1,3,1,1,1,9,health risk,Data Protection,,,,,,1
+2,1,1,3,2,2,1,7,health risk,uncertainty,Sshort,,,,,1
+1,1,2,3,1,6,1,8,,,,,,,,0
+1,1,2,3,1,2,1,8,health risk,Data Protection,Cost,knowledge,,,,1
+1,1,2,3,1,5,1,9,health risk,,,,,,,1
+2,1,1,3,1,2,14,4,Data Protection,health risk,Llong,,,,,1
+1,1,2,3,2,2,1,9,,,,,,,,0
+1,1,2,3,1,2,1,9,,,,,,,,0
+1,1,2,3,1,2,1,8,knowledge,,,,,,,0
+1,1,2,3,1,2,1,8,health risk,,,,,,,1
+1,0,2,3,3,1,1,11,health risk,Data Protection,,,,,,1
+2,0,2,3,1,5,14,5,absence,,,,,,,0
+1,0,1,1,1,5,9,4,health risk,Data Protection,,,,,,1
+2,1,2,3,1,5,1,8,health risk,Data Protection,,,,,,1
+1,0,2,3,1,5,3,8,health risk,Data Protection,"Ethical, Moral",,,,,1
+2,1,2,3,1,2,14,8,,,,,,,,0
+2,1,2,3,1,2,1,8,health risk,Data Protection,,,,,,1
+2,0,2,3,1,1,13,8,Data Protection,,,,,,,0
+1,1,2,3,2,1,13,9,Data Protection,health risk, ,,,,,1
+2,1,2,3,1,2,1,8,Data Protection,,,,,,,0
+1,0,2,3,2,5,3,9,Data Protection,health risk ,"Ethical, moral",social,,,,1
+2,0,2,3,1,5,9,8,Data Protection,health risk,,,,,,1
+2,0,2,3,1,5,3,9,health risk,,,,,,,1
+2,1,2,3,3,1,1,11,religious and ethical conflict,"Ethical, Moral",,,,,,0
+2,0,2,3,1,1,1,5,health risk,Data Protection,,,,,,1
+1,1,2,3,1,1,1,8,,,,,,,,0
+2,0,2,3,1,1,3,5,,,,,,,,0
+2,1,2,3,1,5,13,7,Data Protection,health risk,Sshort,Fear,,,,1
+2,1,2,3,1,6,2,4,Data Protection,social,,,,,,0
+1,1,2,3,1,5,11,5,Data Protection,social,health risk,,,,,1
+2,0,2,3,1,5,3,4,Data Protection,,,,,,,0
+2,0,2,3,1,1,1,8,health risk,Data Protection,,,,,,1
+2,0,2,3,1,6,9,5,Data Protection,,,,,,,0
+2,1,2,3,1,1,1,8,knowledge,,,,,,,0
+2,1,1,3,3,2,9,8,Data Protection,,,,,,,0
+1,0,2,3,1,2,10,5,health risk,Data Protection,,,,,,1
+2,1,1,3,1,5,2,4,health risk,,,,,,,1
+1,0,2,3,1,5,13,5,,,,,,,,0
+1,0,2,3,1,5,13,5,Data Protection,,,,,,,0
+1,1,2,3,1,1,1,5,Data Protection,,,,,,,0
+2,1,2,3,1,1,3,7,Data Protection,health risk,,,,,,1
+1,1,2,3,1,6,1,5,health risk,,,,,,,1
+2,0,1,3,3,2,1,11,health risk,,,,,,,1
+2,1,2,3,1,1,1,8,Data Protection,,,,,,,0
+1,0,2,3,1,1,1,8,health risk,,,,,,,1
+2,0,1,3,3,1,1,9,health risk,fear,,,,,,1
+2,1,2,3,2,1,1,9,,,,,,,,0
+1,0,2,3,2,1,1,8,health risk,,,,,,,1
+1,0,2,3,3,1,1,11,health risk,Data Protection,,,,,,1
+2,1,1,3,1,1,1,7,health risk,Sshort,Sshort,,,,,1
+2,1,2,3,1,1,1,4,,,,,,,,0
+2,1,1,1,2,1,1,9,health risk,,,,,,,1
+1,0,2,3,1,1,1,5,health risk,,,,,,,1
+2,0,2,3,3,1,1,9,X,,,,,,,0
+1,1,2,3,2,1,1,4,Data Protection,Cost,,,,,,0
+2,1,1,3,3,1,1,8,health risk,Data Protection,,,,,,1
+1,1,2,3,2,6,1,8,,Data Protection,,,,,,0
+1,1,2,3,3,1,1,8,health risk,Llong,,,,,,1
+2,1,2,3,1,1,1,8,,,,,,,,0
+2,1,2,3,2,1,1,5,Data Protection,health risk,Sshort,Llong,knowledge,,,1
+2,1,2,3,3,1,1,7,Data Protection,,,,,,,0
+2,1,2,3,3,5,1,4,Data Protection,,,,,,,0
+2,1,2,3,2,6,1,9,social,knowledge,,,,,,0
+2,1,1,3,3,5,1,4,health risk,religious and ethical conflict,"Ethical, moral",,,,,1
+1,1,2,3,3,6,1,11,Data Protection,,,,,,,0
+2,0,2,3,3,5,1,8,health risk,Data Protection,Sshort,Llong,Safety: MRI,,,1
+2,1,1,3,2,5,1,9,,,,,,,,0
+1,1,2,3,2,5,1,7,,,,,,,,0
+1,1,2,3,1,2,1,8,absence,,,,,,,0
+2,0,2,3,3,5,14,9,knowledge,religious and ethical conflict,Data Protection,,,,,0
+1,0,2,3,2,2,11,9,health risk,Cost,Llong,,,,,1
+1,1,2,3,1,5,1,5,,,,,,,,0
+2,0,2,3,3,6,1,8,,,,,,,,0
+2,1,2,3,1,5,1,9,,,,,,,,0
+2,1,2,3,1,5,1,8,,,,,,,,0
+2,1,2,3,1,5,1,8,absence,,,,,,,0
+2,1,2,3,2,6,1,9,Data Protection,health risk,,,,,,1
+1,1,2,3,1,6,1,9,health risk,,,,,,,1
+1,0,1,3,2,5,2,8,,,,,,,,0
+2,1,2,3,1,1,11,4,,,,,,,,0
+2,1,2,3,1,5,3,8,,,,,,,,0
+1,1,2,3,1,1,2,5,,,,,,,,0
+1,0,2,3,1,5,11,4,,,,,,,,0
+1,1,1,3,1,6,1,4,,,,,,,,0
+2,1,2,3,1,1,1,4,,,,,,,,0
+1,1,2,3,1,1,1,4,health risk,Data Protection,,,,,,1
+2,1,2,3,3,1,1,11,health risk,Data Protection,,,,,,1
+2,0,1,3,2,1,1,9,health risk,knowledge,"Ethical, Moral",,,,,1
+2,1,1,3,2,6,1,9,Data Protection,Social ,health risk,,,,,1
+1,1,2,3,2,6,1,11,health risk,,,,,,,1
+2,0,1,1,3,5,2,11,health risk,Cost,,,,,,1
+2,0,1,3,2,5,10,8,knowledge,,,,,,,0
+2,0,1,3,3,5,2,5,rejection,,,,,,,0
+1,0,1,3,2,5,2,11,Data Protection,religious and ethical conflict,,,,,,0
+2,0,1,1,3,5,2,4,health risk,Data Protection,Llong,,,,,1
+1,0,1,3,3,5,11,8,health risk,,,,,,,1
+2,0,1,1,3,5,2,7,Data Protection,health risk,Llong,,,,,1
+2,1,2,3,2,5,14,11,"Ethical, moral",Data Protection,knowledge,,,,,0
+2,0,1,3,2,5,2,8,Data Protection,health risk,,,,,,1
+2,0,1,3,2,5,11,7,Data Protection,,,,,,,0
+2,0,1,3,2,5,11,5,health risk,Data Protection,,,,,,1
+2,0,1,1,2,5,9,9,Data Protection,health risk,Llong,,,,,1
+2,0,2,3,3,5,3,4,,,,,,,,0
+2,0,2,3,3,5,2,7,absence,,,,,,,0
+1,0,1,1,2,5,11,4,Data Protection,,,,,,,0
+2,0,2,3,2,5,2,5,Data Protection,health risk,,,,,,1
+2,0,1,3,2,5,2,9,knowledge,health risk,Data Protection,,,,,1
+2,0,1,3,3,5,14,8,Data Protection,health risk,,,,,,1
+2,0,1,3,2,5,2,9,Data Protection,health risk,"Ethical, Moral",,,,,1
+2,0,2,3,2,5,9,5,health risk,Data Protection,cost,,,,,1
+2,0,1,3,2,5,10,9,Data Protection,,,,,,,0
+1,0,1,1,2,6,11,7,cost,Data Protection,,,,,,0
+2,0,2,3,3,5,3,9,religious and ethical conflict,Data Protection,,,,,,0
+2,1,1,1,2,1,2,5,Data Protection,knowledge,social,"Ethical, Moral",,,,0
+2,0,1,3,3,5,10,5,health risk,,,,,,,1
+2,1,2,3,3,5,2,7,,,,,,,,0
+2,0,1,3,3,5,9,7,health risk,Data Protection,,,,,,1
+2,0,1,3,1,1,1,8,cost,Data Protection,health risk ,,,,,1
+2,0,1,1,3,5,2,8,Data Protection,,,,,,,0
+1,0,1,1,3,5,11,4,security: data breach: sold to third party,Data Protection,,,,,,0
+2,0,1,3,1,5,11,5,Data Protection,health risk,social,, ,,,1
+2,0,1,3,3,2,13,8,Data Protection,Llong,health risk,cost,,,,1
+1,0,1,1,3,5,11,8,Data Protection,,,,,,,0
+2,0,1,1,2,6,11,5,Data Protection,,,,,,,0
+2,0,1,1,2,5,11,4,fear,,,,,,,0
+1,0,2,3,2,5,2,7,Data Protection,,,,,,,0
+2,0,2,3,1,5,9,7,health risk,Data Protection,knowledge,,,,,1
+2,0,1,3,2,5,11,11,health risk,Data Protection,,,,,,1
+2,0,1,3,2,5,13,8,health risk ,knowledge,,,,,,1
+2,0,1,3,2,5,11,4,Data Protection,,,,,,,0
+2,0,2,3,1,6,1,7,Data Protection,,,,,,,0
+2,1,2,3,1,5,14,8,health risk,Data Protection,fear,,,,,1
+2,0,1,3,3,5,2,4,health risk,knowledge,,,,,,1
+1,0,2,3,1,2,2,5,,,,,,,,0
+2,0,2,3,1,2,14,8,,,,,,,,0
+2,0,1,3,3,5,10,8,Data Protection,health risk,,,,,,1
+2,0,2,3,1,5,9,8,,,,,,,,0
+2,0,2,1,1,6,2,5,health risk,Llong,Religious and ethical conflict,Sshort,,,,1
+1,0,1,3,3,5,2,9,Data Protection,,,,,,,0
+1,0,1,3,2,5,13,9,health risk,Llong,,,,,,1
+2,0,2,3,2,5,3,8,health risk,Sshort,Data Protection,Llong,,,,1
+2,1,1,1,3,5,11,4,,,,,,,,0
+2,0,1,3,3,5,3,8,health risk,Data Protection,,,,,,1
+2,0,1,3,2,5,11,5,health risk,Cost,Data Protection, ,,,,1
+2,0,2,3,2,5,1,5,,,,,,,,0
+2,0,1,1,2,5,2,9,health risk,Data Protection,Llong,"Ethical, Moral",social,religious and ethical conflict,,1
+2,1,1,3,1,2,14,9,,,,,,,,0
+2,0,1,1,3,5,14,5,Data Protection,health risk,Llong,Sshort,,,,1
+2,0,1,1,3,5,2,8,health risk,,,,,,,1
+2,0,2,3,3,5,1,7,,,,,,,,0
+2,0,1,1,2,5,2,9,,,,,,,,0
+2,0,1,1,1,6,14,5,health risk,Cost,knowledge,,Llong,Sshort,,1
+2,0,1,3,3,5,2,9,Data Protection,Cost,health risk,,,,,1
+2,0,1,1,2,5,2,4,,,,,,,,0
+2,0,1,3,2,5,3,8,Data Protection,health risk,,GPS tracking,Llong,Sshort,,1
+2,0,1,3,3,5,14,9,health risk,Data Protection,knowledge,,,,,1
+1,1,2,3,2,1,2,11,knowledge,health risk,knowledge,,,,,1
+2,1,1,3,2,1,1,4,,,,,,,,0
+1,0,2,3,3,5,2,11,rejection,health risk,,,,,,1
+2,0,1,1,2,2,9,9,Data Protection,,,health risk,Llong,,,1
+2,0,1,1,2,5,2,8,health risk,Cost,uncertainty,knowledge,Llong,Sshort,Data Protection,1
+2,0,1,3,2,5,11,5,health risk,Data Protection,,,,,,1
+2,0,1,3,2,5,3,9,health risk ,Data Protection,"Ethical, Moral",,,,,1
+2,0,1,3,2,5,10,11,Data Protection,,,,,,,0
+2,0,1,3,2,5,14,11,health risk,Data Protection,Llong,,Safety: MRI,,,1
+2,0,1,3,2,5,3,8,health risk,Data Protection,Sshort,Llong,,,,1
+2,0,1,1,3,5,2,5,religious and ethical conflict,Data Protection,,,,,,0
+2,0,1,3,2,5,3,8,Data Protection,,,,,,,0
+2,0,1,1,2,5,2,5,,,,,,,,0
+2,0,1,3,2,5,10,8,,,,,,,,0
+2,1,2,3,1,1,2,8,religious and ethical conflict,health risk,Sshort,Llong,,,,1
+2,1,2,3,1,1,2,8,religious and ethical conflict,Religious,,,,,,0
+2,0,2,3,1,1,2,5,health risk,,,,,,,1
+1,0,2,3,1,1,2,7,health risk,Data Protection,,,,,,1
+2,0,2,3,1,1,2,4,religious and ethical conflict,Data Protection,,,,,,0
+1,0,1,3,1,1,11,8,Data Protection,social,,,,,,0
+2,1,2,3,1,1,9,5,,,,,,,,0
+1,0,2,3,1,1,2,4,,,,,,,,0
