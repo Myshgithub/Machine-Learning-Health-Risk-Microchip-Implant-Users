@@ -5,6 +5,6 @@ Machine Learning to Model Potential Users with Health Risk Concerns Regarding Mi
 R111-na-filled-mod.csv
 
 # Cleaned Data Files:
-dataX.csv and  datay.csv
+dataX.csv And  datay.csv
 
 
